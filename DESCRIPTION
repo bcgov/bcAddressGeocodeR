@@ -10,8 +10,8 @@ Authors@R:
 Description: Provides a simple interface to the BC Batch Geocoder
   web service for submitting batch geocoding jobs, monitoring their
   status, and downloading completed results. Based on the python code,
-  ols-devkit/als/batch_address_list_submitter_py3_3.py, and translated 
-  with the help of AI.
+  github.com/bcgov/ols-devkit/blob/gh-pages/als/batch_address_list_submitter_py3_3.py,
+  and translated with the help of AI.
 License: Apache License (>= 2)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
