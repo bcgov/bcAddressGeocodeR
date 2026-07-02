@@ -27,7 +27,7 @@ and translated with the help of AI.
 Install the development version from GitHub:
 
 ```r
-remotes::install_github("bcgov/bc_address_geocoder_r")
+remotes::install_github("bcgov/bcAddressGeocodeR")
 ```
 ## Usage
 ### 1. Configure credentials
