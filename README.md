@@ -9,7 +9,7 @@ providing tools to submit, monitor, and retrieve batch geocoding jobs. This pack
 The code is based on the [ols-devkit python code](https://github.com/bcgov/ols-devkit/blob/gh-pages/als/batch_address_list_submitter_py3_3.py), 
 and translated with the help of AI.
 
-`bc_address_geocoder_r` provides a simple workflow for batch geocoding:
+`bcaddressgeocoder` provides a simple workflow for batch geocoding:
 
 1. Configure API credentials
 2. Run geocoding process
@@ -27,7 +27,7 @@ and translated with the help of AI.
 Install the development version from GitHub:
 
 ```r
-remotes::install_github("bcgov/bcAddressGeocodeR")
+remotes::install_github("bcgov/bcaddressgeocoder")
 ```
 ## Usage
 ### 1. Configure credentials
