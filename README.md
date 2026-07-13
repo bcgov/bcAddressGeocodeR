@@ -1,6 +1,6 @@
 [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
-# bcAddressGeocodeR
+# bcaddressgeocoder
 
 This package is for interacting with the 
 [**BC Address Batch Geocoder Service**](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/location-services/geocoder),
